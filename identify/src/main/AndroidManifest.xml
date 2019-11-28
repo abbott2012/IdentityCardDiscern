@@ -1,0 +1,7 @@
+<!--
+  ~ Copyright (C) 2017 Baidu, Inc. All Rights Reserved.
+  -->
+<manifest package="com.baidu.ocr.ui">
+
+    <uses-permission name="android.permission.CAMERA" />
+</manifest>
