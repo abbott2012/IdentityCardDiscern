@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#ff322b</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff322b</color>
+    <color name="bg_main_gray_me">#F9FAFB</color>
+    <color name="bg_main_shop">#f4f4f4</color>
+    <color name="bg_main_gray">#f4f5f6</color>
+    <color name="bg_main_red">#ff322b</color>
+    <color name="bg_input">#f4f5f6</color>
+    <color name="text_common_sub">#999999</color>
+    <color name="text_common">#333333</color>
+    <color name="list_divider">#eeeeee</color>
+    <color name="textColorHint">#d2d2d2</color>
+    <color name="gray_bbbbbb">#bbbbbb</color>
+    <color name="gray_999999">#999999</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="golden">#e0ac65</color>
+    <color name="line_color">#F6F6F7</color>
+    <color name="line">#e1e1e1</color>
+    <color name="line_shop">#F8F8F8</color>
+    <color name="color_f3f4f5">#f3f4f5</color>
+    <color name="cart_bg">#FFF4F4</color>
+    <color name="fc_bg">#FFC2C2C2</color>
+    <!-- 主要字体颜色 -->
+    <color name="main_text_black_color">#111111</color>
+    <color name="main_text_color">#222222</color>
+    <color name="main_text_color_sub">#1c1c1c</color>
+    <color name="main_text_four_color">#C3C3C3</color>
+    <color name="main_text_tow_color">#666666</color>
+    <color name="main_text_three_color">#999999</color>
+    <color name="main_text_six_color">#AAAAAA</color>
+    <color name="text_red_color">#ff4343</color>
+    <color name="text_red_black_color">#D83F35</color>
+    <color name="text_bule_color">#62A4F5</color>
+    <color name="main_text_five_color">#C2C2C2</color>
+    <!--#FEF7E5    #EDFAE5  #E8F7FF-->
+    <color name="coupon_dd">#FEF7E5</color>
+    <color name="coupon_wp">#EDFAE5</color>
+    <color name="coupon_yf">#E8F7FF</color>
+    <color name="coupon_dd_text">#FCA606</color>
+    <color name="coupon_wp_text">#03C27E</color>
+    <color name="coupon_yf_text">#09AEFB</color>
+    <color name="gold">#e0ac65</color>
+    <color name="bbb">#BBBBBB</color>
+    <color name="cp_color_gray_light">#cdcdcd</color>
+    <color name="cp_color_gray">#999999</color>
+    <color name="cp_color_gray_deep">#666666</color>
+    <color name="cp_color_gray_dark">#333333</color>
+    <color name="cp_color_section_bg">#EDEDED</color>
+    <color name="cp_color_grid_item_bg">#f5f5f5</color>
 </resources>

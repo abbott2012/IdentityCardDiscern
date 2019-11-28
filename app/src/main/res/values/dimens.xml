@@ -1,0 +1,189 @@
+<resources>
+    <!-- font sizes -->
+    <dimen name="text_size_xxsmallest">10sp</dimen>
+    <dimen name="text_size_xsmallest">12sp</dimen>
+    <dimen name="text_size_smallest">14sp</dimen>
+    <dimen name="text_size_smaller">16sp</dimen>
+    <dimen name="text_size_small">18sp</dimen>
+    <dimen name="text_size_default">20sp</dimen>
+    <dimen name="text_size_bigger">22sp</dimen>
+    <dimen name="text_size_biggest">24sp</dimen>
+    <dimen name="text_size_xbiggest">28sp</dimen>
+    <dimen name="font_size_25">25sp</dimen>
+    <dimen name="wt_padding_left">12dp</dimen>
+    <dimen name="wt_padding_right">12dp</dimen>
+    <dimen name="wt_padding_top">10dp</dimen>
+    <dimen name="wt_padding_bottom">10dp</dimen>
+
+    <dimen name="spacing_shortest">4dp</dimen>
+    <dimen name="spacing_shorter">8dp</dimen>
+    <dimen name="spacing_short">12dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_long">24dp</dimen>
+    <dimen name="spacing_longer">32dp</dimen>
+    <dimen name="spacing_longest">40dp</dimen>
+    <dimen name="toolbarHeght">48dp</dimen>
+    <dimen name="title_height">48dp</dimen>
+
+    <!-- 填写时 Editext 最小高度 用于字数越多高度自动增加 -->
+    <dimen name="editext_min_height">96dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- 与UI一致的标注 -->
+    <!-- m - margin, w - width, h - height, r - radius, t - text size -->
+    <dimen name="m_1p">1px</dimen>
+    <dimen name="m_2p">2px</dimen>
+    <dimen name="m_1d">1dp</dimen>
+    <dimen name="m_3d">3dp</dimen>
+    <dimen name="m_4d">4dp</dimen>
+    <dimen name="m_6d">6dp</dimen>
+    <dimen name="m_8d">8dp</dimen>
+    <dimen name="m_9d">9dp</dimen>
+    <dimen name="m_23d">23dp</dimen>
+    <dimen name="m_25d">25dp</dimen>
+    <dimen name="m_17d">17dp</dimen>
+    <dimen name="m_14d">14dp</dimen>
+    <dimen name="m_15d">15dp</dimen>
+    <dimen name="m_16d">16dp</dimen>
+    <dimen name="m_10d">10dp</dimen>
+    <dimen name="m_18d">18dp</dimen>
+    <dimen name="m_20d">20dp</dimen>
+    <dimen name="m_22d">22dp</dimen>
+    <dimen name="h_24d">24dp</dimen>
+    <dimen name="h_44d">44dp</dimen>
+    <dimen name="h_35d">35dp</dimen>
+    <dimen name="h_34d">34dp</dimen>
+    <dimen name="h_56d">56dp</dimen>
+    <dimen name="h_28d">28dp</dimen>
+    <dimen name="m_30d">30dp</dimen>
+    <dimen name="m_36d">36dp</dimen>
+    <dimen name="m_27d">27dp</dimen>
+    <dimen name="r_2d">2dp</dimen>
+    <dimen name="w_109d">109dp</dimen>
+    <dimen name="w_96d">96dp</dimen>
+    <dimen name="w_68d">68dp</dimen>
+    <dimen name="m_7d">7dp</dimen>
+    <dimen name="m_32d">32dp</dimen>
+    <dimen name="m_11d">11dp</dimen>
+    <dimen name="m_12d">12dp</dimen>
+    <dimen name="m_13d">13dp</dimen>
+    <dimen name="m_24d">12dp</dimen>
+    <dimen name="m_5d">5dp</dimen>
+    <dimen name="m_2d">2dp</dimen>
+    <dimen name="m_50d">50dp</dimen>
+    <dimen name="m_38d">39dp</dimen>
+    <dimen name="m_39d">39dp</dimen>
+    <dimen name="m_40d">40dp</dimen>
+    <dimen name="m_42d">42dp</dimen>
+    <dimen name="m_45d">45dp</dimen>
+    <dimen name="w_49d">49dp</dimen>
+    <dimen name="w_70d">70dp</dimen>
+    <dimen name="h_53d">53dp</dimen>
+    <dimen name="h_174d">174dp</dimen>
+    <dimen name="h_29d">29dp</dimen>
+    <dimen name="h_50d">50dp</dimen>
+    <dimen name="h_100d">100dp</dimen>
+    <dimen name="h_160d">160dp</dimen>
+    <dimen name="h_15d">15dp</dimen>
+    <dimen name="h_48d">48dp</dimen>
+    <dimen name="h_30d">30dp</dimen>
+    <dimen name="h_40d">40dp</dimen>
+    <dimen name="h_60d">60dp</dimen>
+    <dimen name="w_200d">200dp</dimen>
+    <dimen name="h_200d">200dp</dimen>
+
+    <dimen name="t_16">16sp</dimen>
+    <dimen name="t_15">15sp</dimen>
+    <dimen name="t_14">14sp</dimen>
+    <dimen name="t_13">13sp</dimen>
+    <dimen name="t_12">12sp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!-- 字体大小 -->
+    <dimen name="font_size_8">8sp</dimen>
+    <dimen name="font_size_10">10sp</dimen>
+    <dimen name="font_size_11">11sp</dimen>
+    <dimen name="font_size_12">12sp</dimen>
+    <dimen name="font_size_13">13sp</dimen>
+
+    <dimen name="font_size_14">14sp</dimen>
+    <dimen name="font_size_15">15sp</dimen>
+    <dimen name="font_size_16">16sp</dimen>
+    <dimen name="font_size_17">17sp</dimen>
+    <dimen name="font_size_18">18sp</dimen>
+    <dimen name="font_size_20">20sp</dimen>
+    <dimen name="font_size_22">22sp</dimen>
+    <dimen name="font_size_24">24sp</dimen>
+    <dimen name="font_size_26">26sp</dimen>
+    <dimen name="font_size_30">30sp</dimen>
+    <dimen name="view_small_padding">1dp</dimen>
+    <dimen name="view_padding">6dp</dimen>
+    <!-- 页面间距 -->
+    <dimen name="page_space">15dp</dimen>
+    <dimen name="width_registe_left_ic_image">20dp</dimen>
+    <dimen name="height_registe_left_ic_image">20dp</dimen>
+    <dimen name="home_item_left_right_space_30">30px</dimen>
+    <dimen name="home_item_left_right_space_40">40px</dimen>
+    <dimen name="home_item_left_right_space_20">20px</dimen>
+    <dimen name="home_item_left_right_space_15">15px</dimen>
+    <dimen name="home_item_left_right_space_10">10px</dimen>
+    <dimen name="home_item_left_right_space_15dp">15dp</dimen>
+    <dimen name="home_item_left_right_space_30dp">30dp</dimen>
+    <dimen name="home_item_left_right_space_23">23dp</dimen>
+    <dimen name="page_space_40">40dp</dimen>
+
+    <dimen name="page_plan_wifth">310dp</dimen>
+    <dimen name="cp_default_padding">16dp</dimen>
+
+    <dimen name="cp_index_bar_width">36dp</dimen>
+    <dimen name="cp_index_bar_text_size">13sp</dimen>
+
+    <dimen name="cp_cancel_text_size">15sp</dimen>
+    <dimen name="cp_search_text_size">15sp</dimen>
+
+    <dimen name="cp_empty_icon_width">56dp</dimen>
+    <dimen name="cp_empty_icon_height">56dp</dimen>
+    <dimen name="cp_empty_text_size">14sp</dimen>
+
+    <dimen name="cp_section_height">32dp</dimen>
+    <dimen name="cp_section_text_size">15sp</dimen>
+
+    <dimen name="cp_list_item_height">50dp</dimen>
+    <dimen name="cp_list_item_text_size">15sp</dimen>
+
+    <dimen name="cp_grid_item_space">16dp</dimen>
+    <dimen name="cp_grid_item_padding">10dp</dimen>
+
+    <dimen name="cp_overlay_width">100dp</dimen>
+    <dimen name="cp_overlay_height">100dp</dimen>
+    <dimen name="cp_overlay_text_size">28sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="drop_pop_menu_text_size">16sp</dimen>
+    <dimen name="drop_pop_menu_item_height">35dp</dimen>
+    <dimen name="drop_pop_menu_item_horizontal_margin">10dp</dimen>
+    <dimen name="drop_pop_menu_icon_text_margin">10dp</dimen>
+    <dimen name="drop_pop_menu_icon_width">22dp</dimen>
+
+    <dimen name="m_19d">19dp</dimen>
+    <dimen name="h_33d">33dp</dimen>
+    <dimen name="m_34d">32dp</dimen>
+    <dimen name="m_48d">48dp</dimen>
+    <dimen name="m_57d">57dp</dimen>
+    <dimen name="m_58d">58dp</dimen>
+    <dimen name="m_132d">132dp</dimen>
+    <dimen name="m_59d">59dp</dimen>
+    <dimen name="m_62d">62dp</dimen>
+    <dimen name="m_64d">64dp</dimen>
+    <dimen name="m_65d">65dp</dimen>
+    <dimen name="w_80d">80dp</dimen>
+    <dimen name="w_86d">86dp</dimen>
+    <dimen name="w_90d">90dp</dimen>
+    <dimen name="font_size_9">8sp</dimen>
+    <dimen name="font_size_32">32sp</dimen>
+    <dimen name="font_size_40">40sp</dimen>
+</resources>
